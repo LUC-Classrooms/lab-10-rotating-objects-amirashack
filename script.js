@@ -47,7 +47,7 @@ function draw() {
     } else {
       obj2.reset();
     }
-  }
+  } 
 }
 
 function myClass(tempX, tempY){
